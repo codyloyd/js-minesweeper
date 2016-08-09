@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box; }
+
+.gamecontainer {
+  width: 405px;
+  height: 405px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
+
+.square {
+  height: 45px;
+  width: 45px;
+  display: flex;
+  border: 1px solid #282828; }
+
+/*# sourceMappingURL=style.css.map */
