@@ -15,4 +15,7 @@
   display: flex;
   border: 1px solid #282828; }
 
+.covered {
+  background: red; }
+
 /*# sourceMappingURL=style.css.map */
