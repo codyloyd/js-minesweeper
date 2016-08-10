@@ -2,11 +2,12 @@
   box-sizing: border-box; }
 
 .gamecontainer {
-  width: 405px;
-  height: 405px;
+  width: 407px;
+  height: 407px;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap; }
+  flex-wrap: wrap;
+  border: 1px solid #282828; }
 
 .square {
   height: 45px;

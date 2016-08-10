@@ -5,11 +5,12 @@ $black: #282828;
 }
 
 .gamecontainer{
-  width: 405px;
-  height: 405px;
+  width: 407px;
+  height: 407px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  border: 1px solid $black;
 }
 
 .square{
